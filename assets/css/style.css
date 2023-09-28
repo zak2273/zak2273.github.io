@@ -68,7 +68,7 @@
 }
 
 .linkedin:hover {
-  background-color: #0077b5;
+  background-color: #b50000;
 }
 
 .angellist:hover {
@@ -116,7 +116,7 @@
 }
 
 .contactme:hover{
-  color: #00796b;
+  color: #790000;
   background-color: white;
 }
 /* main body */
@@ -367,7 +367,7 @@ h3 {
 .waves-effect.waves-blue .waves-ripple {
   /* The alpha value allows the text and background color
    of the button to still show through. */
-  background-color: rgba(33, 150, 243, 0.2);
+  background-color: rgba(243, 72, 33, 0.842);
 }
 
 .card {
@@ -549,7 +549,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: #ff3d3d !important;
 }
 
 /* .teal-text {
@@ -559,7 +559,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #800000 !important;
 }
 
 /* .teal {
